@@ -1,0 +1,2 @@
+You must have used Instagram once in your lifetime , The craze it has among yound generation is fantastic . It also provides amazing filters which creates wonderfull texture of images.
+Thus here we created some filters which arev applied on a sample picture of waterfall.
